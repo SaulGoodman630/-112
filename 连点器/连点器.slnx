@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="连点器/连点器.vcxproj" Id="2a70d178-5e09-4793-b434-125764e6ec33" />
+</Solution>
